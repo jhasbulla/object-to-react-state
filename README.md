@@ -22,16 +22,6 @@ Ever wished updating state in React could be simpler, without the constant strug
 
 ---
 
-## 📚 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
-- [License (MIT)](#license-mit)
-
----
-
 ## 🛠️ Features
 - **Reactive Objects:** Automatically patches objects so that changes trigger re-renders.
 - **Supports Class Instances & Plain Objects:** Use with both simple objects and more complex class instances.

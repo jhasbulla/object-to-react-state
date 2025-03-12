@@ -1,9 +1,9 @@
 {
   "name": "@jhasbulla/object-to-react-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/object-to-react-state.cjs.js",
-  "module": "dist/object-to-react-state.js",
+  "module": "dist/object-to-react-state.es.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
@@ -36,5 +36,8 @@
     "typescript": "^5.8.2",
     "vite": "^6.2.1",
     "vite-plugin-dts": "^4.5.3"
+  },
+  "dependencies": {
+    "axios": "^1.9.0"
   }
 }
